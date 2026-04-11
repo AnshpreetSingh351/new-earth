@@ -1,1 +1,1 @@
-# new-earth
+# Earth
